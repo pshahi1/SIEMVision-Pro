@@ -1,0 +1,12 @@
+# Ignore large or unnecessary files
+dataset/raw/
+dataset/processed/
+dataset/model_output/
+*.csv
+*.pkl
+*.h5
+*.txt
+
+# Ignore Python cache
+__pycache__/
+*.pyc
